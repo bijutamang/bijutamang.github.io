@@ -98,7 +98,7 @@ img {
 }
 
 .biju{
-  height: 160px;
+  height: 170px;
 }
 ul {
   list-style: none;
@@ -891,5 +891,9 @@ h2 {
   .customize-theme .card{
     width: 96vw;
     padding: 1rem;
+  }
+
+  .biju{
+    height: 200px;
   }
 }
